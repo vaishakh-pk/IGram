@@ -1,4 +1,4 @@
-# igram
+# IGram
 
 A new Flutter project.
 
